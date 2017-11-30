@@ -1,4 +1,5 @@
 # VendingMachine
+# Inheritance, Java, Arraylists, GUI, javax.swing
 /**
  * This class is the testing class for the vending machine. It has 4 options of drinks to select.
  * User can pay with credit or debit card that is linked already in the database of this machine.
